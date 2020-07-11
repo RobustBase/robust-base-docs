@@ -1,7 +1,7 @@
 # Introduction to Java
 Java is open source high level popular genral purpose programming language.
 
-````
+```java
 package com.routinecart.component.eurekaserver;
 
 import org.junit.Test;
@@ -18,4 +18,4 @@ public class EurekaServerApplicationTest {
 	}
 
 }
-````
+```
