@@ -24,3 +24,5 @@ public class EurekaServerApplicationTest {
 
 }
 ```
+
+![SRP](https://miro.medium.com/max/745/1*Xw8y_f1BIu8_JVJ-WJz0hw.jpeg)
