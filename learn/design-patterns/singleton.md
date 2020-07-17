@@ -31,8 +31,6 @@ class Singleton {
 		return instance;
 	}
 	
-	...
-	
 	public void doSomething()
 	{
 		...
