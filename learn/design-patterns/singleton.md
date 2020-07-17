@@ -15,7 +15,7 @@ The singleton pattern is one of the simplest design patterns: it involves only o
 
 ---
 
-![Img](https://drive.google.com/file/d/1A4rDtN5l_neKK1hnPAbmT_-2w9SNW133)
+![Img](https://docs.google.com/drawings/d/1ZGSALNm2RKUhcqozi3thp310npYAWjQJnRI3aDuwZYc/export/png)
 
 ---
 
