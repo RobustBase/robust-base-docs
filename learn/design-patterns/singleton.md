@@ -6,3 +6,29 @@ The singleton pattern is one of the simplest design patterns: it involves only o
 # Intent
 - Ensure that only one instance of a class is created.
 - Provide a global point of access to the object.
+
+
+```java
+class Singleton {
+	private static Singleton instance;
+
+	private Singleton() {
+		...
+	}
+	
+	public static synchronized Singleton getInstance(){
+
+		if (instance == null)
+			instance = new Singleton();
+
+		return instance;
+	}
+	
+	...
+	
+	public void doSomething()
+	{
+		...
+	}
+}
+```
