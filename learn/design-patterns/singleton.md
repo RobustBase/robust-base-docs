@@ -15,6 +15,10 @@ The singleton pattern is one of the simplest design patterns: it involves only o
 
 ---
 
+![Img](https://drive.google.com/file/d/1A4rDtN5l_neKK1hnPAbmT_-2w9SNW133)
+
+---
+
 ```java
 class Singleton {
 	private static Singleton instance;
