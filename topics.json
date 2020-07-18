@@ -64,5 +64,566 @@
                 ]
             }
         ]
+    },
+    {
+        "topicId": "design-patterns",
+        "topicName": "Design Patterns",
+        "description": "The importance of good software design can never be under estimated.",
+        "subTopics": [
+            {
+                "subTopicId": "creational-design-patterns",
+                "subTopicName": "Creational Design Patterns",
+                "description": "Test introduction description",
+                "items": [
+                    {
+                        "itemId": "singleton",
+                        "itemName": "Singleton",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "factory",
+                        "itemName": "Factory",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "factory-method",
+                        "itemName": "Factory Method",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "abstract-factory",
+                        "itemName": "Abstract Factory",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "builder",
+                        "itemName": "Builder",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "prototype",
+                        "itemName": "Prototype",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "object-pool",
+                        "itemName": "Object Pool",
+                        "itemDescription": ""
+                    }
+                ]
+            },
+            {
+                "subTopicId": "behavioral-design-patterns",
+                "subTopicName": "Behavioral Design Patterns",
+                "description": "Test introduction description 2",
+                "items": [
+                    {
+                        "itemId": "chain-of-responsibiliy",
+                        "itemName": "Chain of Responsibiliy",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "command",
+                        "itemName": "Command",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "interpreter",
+                        "itemName": "Interpreter",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "iterator",
+                        "itemName": "Iterator",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "mediator",
+                        "itemName": "Mediator",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "observer",
+                        "itemName": "Observer",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "strategy",
+                        "itemName": "Strategy",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "template-method",
+                        "itemName": "Template Method",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "visitor",
+                        "itemName": "Visitor",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "null-object",
+                        "itemName": "Null Object",
+                        "itemDescription": ""
+                    }
+                ]
+            },
+            {
+                "subTopicId": "structural-design-patterns",
+                "subTopicName": "Structural Design Patterns",
+                "description": "Test introduction description 2",
+                "items": [
+                    {
+                        "itemId": "adapter",
+                        "itemName": "Adapter",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "bridge",
+                        "itemName": "Bridge",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "composite",
+                        "itemName": "Composite",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "decorator",
+                        "itemName": "Decorator",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "flyweight",
+                        "itemName": "Flyweight",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "memento",
+                        "itemName": "Memento",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "proxy",
+                        "itemName": "Proxy",
+                        "itemDescription": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "topicId": "architectures",
+        "topicName": "Architectures",
+        "description": "The importance of good software design can never be under estimated.",
+        "subTopics": [
+            {
+                "subTopicId": "solid",
+                "subTopicName": "SOLID",
+                "description": "Test introduction description",
+                "items": [
+                    {
+                        "itemId": "single-responsibility-principle-srp",
+                        "itemName": "Single Responsibility Principle (SRP)",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "open-close-principle-ocp",
+                        "itemName": "Open Close Principle (OCP)",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "liskovs-substitution-principle-lsp",
+                        "itemName": "Liskov's Substitution Principle (LSP)",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "interface-segregation-principle-isp",
+                        "itemName": "Interface Segregation Principle (ISP)",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "dependency-inversion-principle-dip",
+                        "itemName": "Dependency Inversion Principle (DIP)",
+                        "itemDescription": ""
+                    }
+                ]
+            },
+            {
+                "subTopicId": "common-dp",
+                "subTopicName": "Common Design Patterns",
+                "description": "Test introduction description 2",
+                "items": [
+                    {
+                        "itemId": "dry",
+                        "itemName": "Don't Repeat Yourself (DRY)",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "yagni",
+                        "itemName": "You Aren't Gonna Need It (YAGNI)",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "kiss",
+                        "itemName": "Keep It Simple, Stupid (KISS)",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "ioc",
+                        "itemName": "Inversion Of Control (IoC)",
+                        "itemDescription": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "topicId": "java",
+        "topicName": "Java",
+        "description": "The importance of good software design can never be under estimated.",
+        "subTopics": [
+            {
+                "subTopicId": "solid",
+                "subTopicName": "SOLID",
+                "description": "Test introduction description",
+                "items": [
+                    {
+                        "itemId": "single-responsibility-principle-srp",
+                        "itemName": "Single Responsibility Principle (SRP)",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "open-close-principle-ocp",
+                        "itemName": "Open Close Principle (OCP)",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "liskovs-substitution-principle-lsp",
+                        "itemName": "Liskov's Substitution Principle (LSP)",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "interface-segregation-principle-isp",
+                        "itemName": "Interface Segregation Principle (ISP)",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "dependency-inversion-principle-dip",
+                        "itemName": "Dependency Inversion Principle (DIP)",
+                        "itemDescription": ""
+                    }
+                ]
+            },
+            {
+                "subTopicId": "common-dp",
+                "subTopicName": "Common Design Patterns",
+                "description": "Test introduction description 2",
+                "items": [
+                    {
+                        "itemId": "dry",
+                        "itemName": "Don't Repeat Yourself (DRY)",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "yagni",
+                        "itemName": "You Aren't Gonna Need It (YAGNI)",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "kiss",
+                        "itemName": "Keep It Simple, Stupid (KISS)",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "ioc",
+                        "itemName": "Inversion Of Control (IoC)",
+                        "itemDescription": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "topicId": "spring-boot",
+        "topicName": "Spring Boot",
+        "description": "Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that you can just run.",
+        "subTopics": [
+            {
+                "subTopicId": "introduction-to-spring-boot",
+                "subTopicName": "Introduction to Spring Boot",
+                "description": "Test introduction description",
+                "items": [
+                    {
+                        "itemId": "what-is-spring-boot",
+                        "itemName": "What is Spring Boot?",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "problems-without-spring-boot",
+                        "itemName": "Problems without Spring Boot",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "solutions-with-spring-boot",
+                        "itemName": "Solutions with Spring Boot",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "springboot-features",
+                        "itemName": "SpringBoot Features",
+                        "itemDescription": ""
+                    }
+                ]
+            },
+            {
+                "subTopicId": "get-started-with-spring-boot",
+                "subTopicName": "Get started with Spring Boot",
+                "description": "Test introduction description 2",
+                "items": [
+                    {
+                        "itemId": "creating-first-spring-boot-application",
+                        "itemName": "Creating First Spring Boot Application",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "spring-boot-application-architecture",
+                        "itemName": "Spring Boot Application Architecture",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "running-spring-boot-application",
+                        "itemName": "Running Spring Boot Application",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "debugging-spring-boot-application",
+                        "itemName": "Debugging Spring Boot Application",
+                        "itemDescription": ""
+                    }
+                ]
+            },
+            {
+                "subTopicId": "spring-boot-starters",
+                "subTopicName": "Spring Boot Starters",
+                "description": "Test introduction description 2",
+                "items": [
+                    {
+                        "itemId": "spring-boot-starter-parent",
+                        "itemName": "Spring Boot Starter Parent",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "maven-default",
+                        "itemName": "Maven Default",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "other-starters",
+                        "itemName": "Other Starters",
+                        "itemDescription": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "topicId": "spring-cloud",
+        "topicName": "Spring Cloud",
+        "description": "The importance of good software design can never be under estimated.",
+        "subTopics": [
+            {
+                "subTopicId": "solid",
+                "subTopicName": "SOLID",
+                "description": "Test introduction description",
+                "items": [
+                    {
+                        "itemId": "single-responsibility-principle-srp",
+                        "itemName": "Single Responsibility Principle (SRP)",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "open-close-principle-ocp",
+                        "itemName": "Open Close Principle (OCP)",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "liskovs-substitution-principle-lsp",
+                        "itemName": "Liskov's Substitution Principle (LSP)",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "interface-segregation-principle-isp",
+                        "itemName": "Interface Segregation Principle (ISP)",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "dependency-inversion-principle-dip",
+                        "itemName": "Dependency Inversion Principle (DIP)",
+                        "itemDescription": ""
+                    }
+                ]
+            },
+            {
+                "subTopicId": "common-dp",
+                "subTopicName": "Common Design Patterns",
+                "description": "Test introduction description 2",
+                "items": [
+                    {
+                        "itemId": "dry",
+                        "itemName": "Don't Repeat Yourself (DRY)",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "yagni",
+                        "itemName": "You Aren't Gonna Need It (YAGNI)",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "kiss",
+                        "itemName": "Keep It Simple, Stupid (KISS)",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "ioc",
+                        "itemName": "Inversion Of Control (IoC)",
+                        "itemDescription": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "topicId": "hibernate-orm",
+        "topicName": "Hibernate ORM",
+        "description": "The importance of good software design can never be under estimated.",
+        "subTopics": [
+            {
+                "subTopicId": "solid",
+                "subTopicName": "SOLID",
+                "description": "Test introduction description",
+                "items": [
+                    {
+                        "itemId": "single-responsibility-principle-srp",
+                        "itemName": "Single Responsibility Principle (SRP)",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "open-close-principle-ocp",
+                        "itemName": "Open Close Principle (OCP)",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "liskovs-substitution-principle-lsp",
+                        "itemName": "Liskov's Substitution Principle (LSP)",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "interface-segregation-principle-isp",
+                        "itemName": "Interface Segregation Principle (ISP)",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "dependency-inversion-principle-dip",
+                        "itemName": "Dependency Inversion Principle (DIP)",
+                        "itemDescription": ""
+                    }
+                ]
+            },
+            {
+                "subTopicId": "common-dp",
+                "subTopicName": "Common Design Patterns",
+                "description": "Test introduction description 2",
+                "items": [
+                    {
+                        "itemId": "dry",
+                        "itemName": "Don't Repeat Yourself (DRY)",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "yagni",
+                        "itemName": "You Aren't Gonna Need It (YAGNI)",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "kiss",
+                        "itemName": "Keep It Simple, Stupid (KISS)",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "ioc",
+                        "itemName": "Inversion Of Control (IoC)",
+                        "itemDescription": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "topicId": "docker",
+        "topicName": "Docker",
+        "description": "The importance of good software design can never be under estimated.",
+        "subTopics": [
+            {
+                "subTopicId": "solid",
+                "subTopicName": "SOLID",
+                "description": "Test introduction description",
+                "items": [
+                    {
+                        "itemId": "single-responsibility-principle-srp",
+                        "itemName": "Single Responsibility Principle (SRP)",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "open-close-principle-ocp",
+                        "itemName": "Open Close Principle (OCP)",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "liskovs-substitution-principle-lsp",
+                        "itemName": "Liskov's Substitution Principle (LSP)",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "interface-segregation-principle-isp",
+                        "itemName": "Interface Segregation Principle (ISP)",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "dependency-inversion-principle-dip",
+                        "itemName": "Dependency Inversion Principle (DIP)",
+                        "itemDescription": ""
+                    }
+                ]
+            },
+            {
+                "subTopicId": "common-dp",
+                "subTopicName": "Common Design Patterns",
+                "description": "Test introduction description 2",
+                "items": [
+                    {
+                        "itemId": "dry",
+                        "itemName": "Don't Repeat Yourself (DRY)",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "yagni",
+                        "itemName": "You Aren't Gonna Need It (YAGNI)",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "kiss",
+                        "itemName": "Keep It Simple, Stupid (KISS)",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "ioc",
+                        "itemName": "Inversion Of Control (IoC)",
+                        "itemDescription": ""
+                    }
+                ]
+            }
+        ]
     }
 ]
