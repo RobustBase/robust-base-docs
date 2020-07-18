@@ -1,0 +1,79 @@
+{
+	"topicId": "spring-boot",
+	"topicName": "Spring Boot",
+	"description": "Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that you can just run.",
+	"subTopics": [{
+			"subTopicId": "introduction-to-spring-boot",
+			"subTopicName": "Introduction to Spring Boot",
+			"description": "Test introduction description",
+			"items": [{
+					"itemId": "what-is-spring-boot",
+					"itemName": "What is Spring Boot?",
+					"itemDescription": ""
+				},
+				{
+					"itemId": "problems-without-spring-boot",
+					"itemName": "Problems without Spring Boot",
+					"itemDescription": ""
+				},
+				{
+					"itemId": "solutions-with-spring-boot",
+					"itemName": "Solutions with Spring Boot",
+					"itemDescription": ""
+				},
+				{
+					"itemId": "springboot-features",
+					"itemName": "SpringBoot Features",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"subTopicId": "get-started-with-spring-boot",
+			"subTopicName": "Get started with Spring Boot",
+			"description": "Test introduction description 2",
+			"items": [{
+					"itemId": "creating-first-spring-boot-application",
+					"itemName": "Creating First Spring Boot Application",
+					"itemDescription": ""
+				},
+				{
+					"itemId": "spring-boot-application-architecture",
+					"itemName": "Spring Boot Application Architecture",
+					"itemDescription": ""
+				},
+				{
+					"itemId": "running-spring-boot-application",
+					"itemName": "Running Spring Boot Application",
+					"itemDescription": ""
+				},
+				{
+					"itemId": "debugging-spring-boot-application",
+					"itemName": "Debugging Spring Boot Application",
+					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"subTopicId": "spring-boot-starters",
+			"subTopicName": "Spring Boot Starters",
+			"description": "Test introduction description 2",
+			"items": [{
+					"itemId": "spring-boot-starter-parent",
+					"itemName": "Spring Boot Starter Parent",
+					"itemDescription": ""
+				},
+				{
+					"itemId": "maven-default",
+					"itemName": "Maven Default",
+					"itemDescription": ""
+				},
+				{
+					"itemId": "other-starters",
+					"itemName": "Other Starters",
+					"itemDescription": ""
+				}
+			]
+		}
+	]
+}
