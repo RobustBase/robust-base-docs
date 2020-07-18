@@ -11,9 +11,13 @@ Debugging Spring Boot applications is also easy. You do not need any special IDE
 ---
 
 ## Running as a Packaged Application
-- `java -jar target/myapplication-0.0.1-SNAPSHOT.jar`
+- Create executable JAR
+  - **Maven**: `maven clean install`
+  - **Gradle**: `gradle clean build`
+- Execute Java JAR
+  - `java -jar target/myapplication-0.0.1-SNAPSHOT.jar`
 - Remote debugging
-  `java -Xdebug -Xrunjdwp:server=y,transport=dt_socket,address=8000,suspend=n -jar target/myapplication-0.0.1-SNAPSHOT.jar`
+  - `java -Xdebug -Xrunjdwp:server=y,transport=dt_socket,address=8000,suspend=n -jar target/myapplication-0.0.1-SNAPSHOT.jar`
   
 ---
 
