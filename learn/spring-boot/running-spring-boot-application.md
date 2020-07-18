@@ -23,7 +23,8 @@ Debugging Spring Boot applications is also easy. You do not need any special IDE
 
 ## Using the Maven Plugin
 The Spring Boot Maven plugin includes a `run` goal that can be used to quickly compile and run your application. Applications run in an exploded form, as they do in your IDE. The following example shows a typical Maven command to run a Spring Boot application:
-```
+
+```bash
 mvn spring-boot:run
 ```
 
@@ -31,6 +32,7 @@ mvn spring-boot:run
 
 ## Using the Gradle Plugin
 The Spring Boot Gradle plugin also includes a `bootRun` task that can be used to run your application in an exploded form. The bootRun task is added whenever you apply the `org.springframework.boot` and java plugins and is shown in the following example:
-```
+
+```bash
 gradle bootRun
 ```
