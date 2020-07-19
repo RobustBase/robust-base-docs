@@ -2,7 +2,7 @@
     {
         "topicId": "design-principles",
         "topicName": "Design Principles",
-        "description": "The importance of good software design can never be under estimated.",
+        "description": "The importance of good software design can never be under-estimated.",
         "subTopics": [
             {
                 "subTopicId": "solid",
