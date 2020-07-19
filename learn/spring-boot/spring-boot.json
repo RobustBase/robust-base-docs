@@ -34,7 +34,7 @@
 			"description": "Test introduction description 2",
 			"items": [{
 					"itemId": "creating-first-spring-boot-application",
-					"itemName": "Creating First Spring Boot Application",
+					"itemName": "Creating first Spring Boot Application",
 					"itemDescription": ""
 				},
 				{
