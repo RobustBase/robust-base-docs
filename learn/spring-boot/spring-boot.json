@@ -9,9 +9,9 @@
 			"items": [{
 					"itemId": "what-is-spring-boot",
 					"itemName": "What is Spring Boot?",
-					"itemDescription": ""
+					"itemDescription": "All about Spring Boot"
 				},
-				{
+				{		
 					"itemId": "problems-without-spring-boot",
 					"itemName": "Problems without Spring Boot",
 					"itemDescription": ""
