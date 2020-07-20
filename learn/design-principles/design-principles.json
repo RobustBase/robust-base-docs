@@ -1,0 +1,66 @@
+ {
+        "topicId": "design-principles",
+        "topicName": "Design Principles",
+        "description": "The importance of good software design can never be under estimated.",
+        "subTopics": [
+            {
+                "subTopicId": "solid",
+                "subTopicName": "SOLID",
+                "description": "Test introduction description",
+                "items": [
+                    {
+                        "itemId": "single-responsibility-principle-srp",
+                        "itemName": "Single Responsibility Principle (SRP)",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "open-close-principle-ocp",
+                        "itemName": "Open Close Principle (OCP)",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "liskovs-substitution-principle-lsp",
+                        "itemName": "Liskov's Substitution Principle (LSP)",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "interface-segregation-principle-isp",
+                        "itemName": "Interface Segregation Principle (ISP)",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "dependency-inversion-principle-dip",
+                        "itemName": "Dependency Inversion Principle (DIP)",
+                        "itemDescription": ""
+                    }
+                ]
+            },
+            {
+                "subTopicId": "other-dp",
+                "subTopicName": "Other Design Patterns",
+                "description": "Test introduction description 2",
+                "items": [
+                    {
+                        "itemId": "dry",
+                        "itemName": "Don't Repeat Yourself (DRY)",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "yagni",
+                        "itemName": "You Aren't Gonna Need It (YAGNI)",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "kiss",
+                        "itemName": "Keep It Simple, Stupid (KISS)",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "ioc",
+                        "itemName": "Inversion Of Control (IoC)",
+                        "itemDescription": ""
+                    }
+                ]
+            }
+        ]
+    }
