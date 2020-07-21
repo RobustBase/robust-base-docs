@@ -4,7 +4,8 @@
 
 ![SpringBootApplication-Annotation](https://docs.google.com/drawings/d/1qffIVIgO_wqexzgm7mCLY9xzJmuttTIFIcx346p0znc/export/png)
 
-
+&nbsp;
+&nbsp;
 ## `@Configuration` Annotation
 ---
 `@Configuration` annotation allows developer to define Spring configuration in `Java-based` manner. As per recommendation application's primary source be a `@Configuration` class, usually the class which defines `main` method should be annotated with `@Configuration`.
@@ -12,6 +13,8 @@
 - In case of multi configuration classes, `@Import` can be used to import other configuration classes into primary configuration class.
 - In case you have some `XML-based` configuration, `@ImportResource` can be used to import XML configuration files.
 
+&nbsp;
+&nbsp;
 ## `@EnableAutoConfiguration` Annotation
 ---
 Spring Boot auto-configuration attempts to automatically configure your Spring application based on the jar dependencies that you have added. For example, if HSQLDB is on your classpath, and you have not manually configured any database connection beans, then Spring Boot auto-configures an in-memory database.
@@ -37,6 +40,8 @@ public class MyApplication {
 
 If the class is not on the classpath, you can use the `excludeName` attribute of the annotation and specify the fully qualified name instead. If you prefer to use `@EnableAutoConfiguration` rather than `@SpringBootApplication`, `exclude` and `excludeName` are also available. Finally, you can also control the list of auto-configuration classes to exclude by using the `spring.autoconfigure.exclude property`.
 
+&nbsp;
+&nbsp;
 ## `@ComponentScan` Annotation
 ---
 Configures component scanning directives for use with `@Configuration` classes. Provides support parallel with Spring XML's `<context:component-scan>` element.
