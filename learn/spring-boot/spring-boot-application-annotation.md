@@ -4,7 +4,6 @@
 
 ![SpringBootApplication-Annotation](https://docs.google.com/drawings/d/1qffIVIgO_wqexzgm7mCLY9xzJmuttTIFIcx346p0znc/export/png)
 
----
 
 ## `@Configuration` Annotation
 ---
@@ -12,3 +11,6 @@
 - An application can have one or more `@Configuration` classes.
 - In case of multi configuration classes, `@Import` can be used to import other configuration classes into primary configuration class.
 - In case you have some `XML-based` configuration, `@ImportResource` can be used to import XML configuration files.
+
+## `@EnableAutoConfiguration` Annotation
+---
