@@ -25,6 +25,11 @@
 					"itemId": "springboot-features",
 					"itemName": "Spring Boot Features",
 					"itemDescription": ""
+				},
+				{
+					"itemId": "spring-boot-application-annotation",
+					"itemName": "@SpringBootApplication Annotation",
+					"itemDescription": ""
 				}
 			]
 		},
