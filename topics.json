@@ -12,7 +12,7 @@
                     {
                         "itemId": "single-responsibility-principle-srp",
                         "itemName": "Single Responsibility Principle (SRP)",
-                        "itemDescription": ""
+                        "itemDescription": "Test"
                     },
                     {
                         "itemId": "open-close-principle-ocp",
