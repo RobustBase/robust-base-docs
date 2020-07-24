@@ -6,6 +6,10 @@ The Single Responsibility Principle is a simple and intuitive principle, but in 
 # Intent
 A class should have only one reason to change. Here responsibility is considered as **reason to change**.
 
+> “Gather together the things that change for the same reasons. Separate those things that change for different reasons.” - Robert C. Martin
+
+Open-Close Principle :
+
 ```java
 package com.routinecart.component.eurekaserver;
 
