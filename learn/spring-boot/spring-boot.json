@@ -59,10 +59,22 @@
 					"itemId": "debugging-spring-boot-application",
 					"itemName": "Debugging Spring Boot Application",
 					"itemDescription": ""
+				}
+			]
+		},
+		{
+			"subTopicId": "understanding-spring-boot-api",
+			"subTopicName": "Understanding Spring Boot API",
+			"description": "Get started with Spring Boot",
+			"items": [
+				{
+					"itemId": "spring-application-class",
+					"itemName": "SpringApplication Class",
+					"itemDescription": ""
 				},
 				{
-					"itemId": "springapplication-run-method",
-					"itemName": "SpringApplication run Method",
+					"itemId": "command-line-runner-interface",
+					"itemName": "CommandLineRunner Inteface",
 					"itemDescription": ""
 				}
 			]
