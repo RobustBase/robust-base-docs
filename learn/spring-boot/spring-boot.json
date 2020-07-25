@@ -76,6 +76,11 @@
 					"itemId": "command-line-runner-interface",
 					"itemName": "CommandLineRunner Inteface",
 					"itemDescription": ""
+				},
+				{
+					"itemId": "application-runner-interface",
+					"itemName": "ApplicationRunner Inteface",
+					"itemDescription": ""
 				}
 			]
 		},
