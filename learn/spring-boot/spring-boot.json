@@ -61,8 +61,8 @@
 					"itemDescription": ""
 				},
 				{
-					"itemId": "understanding-spring-application-run-method",
-					"itemName": "Understanding SpringApplication run Method",
+					"itemId": "springapplication-run-method",
+					"itemName": "SpringApplication run Method",
 					"itemDescription": ""
 				}
 			]
