@@ -4,13 +4,13 @@
         "description": "The importance of good software design can never be under estimated.",
         "subTopics": [
             {
-                "subTopicId": "solid",
-                "subTopicName": "SOLID",
+                "subTopicId": "introduction-to-microservices",
+                "subTopicName": "Introduction to Microservices",
                 "description": "Test introduction description",
                 "items": [
                     {
-                        "itemId": "single-responsibility-principle-srp",
-                        "itemName": "Single Responsibility Principle (SRP)",
+                        "itemId": "what-are-microservices",
+                        "itemName": "What are microservices?",
                         "itemDescription": ""
                     },
                     {
