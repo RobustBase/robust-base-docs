@@ -2,16 +2,18 @@
 	"topicId": "spring-boot",
 	"topicName": "Spring Boot",
 	"description": "Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that you can just run.",
-	"subTopics": [{
+	"subTopics": [
+		{
 			"subTopicId": "introduction-to-spring-boot",
 			"subTopicName": "Introduction to Spring Boot",
 			"description": "Test introduction description",
-			"items": [{
+			"items": [
+				{
 					"itemId": "what-is-spring-boot",
 					"itemName": "What is Spring Boot?",
 					"itemDescription": "All about Spring Boot"
 				},
-				{		
+				{
 					"itemId": "problems-without-spring-boot",
 					"itemName": "Problems without Spring Boot",
 					"itemDescription": ""
@@ -36,8 +38,9 @@
 		{
 			"subTopicId": "get-started-with-spring-boot",
 			"subTopicName": "Get started with Spring Boot",
-			"description": "Test introduction description 2",
-			"items": [{
+			"description": "Get started with Spring Boot",
+			"items": [
+				{
 					"itemId": "creating-first-spring-boot-application",
 					"itemName": "Creating first Spring Boot Application",
 					"itemDescription": ""
@@ -56,6 +59,11 @@
 					"itemId": "debugging-spring-boot-application",
 					"itemName": "Debugging Spring Boot Application",
 					"itemDescription": ""
+				},
+				{
+					"itemId": "understanding-spring-application-run-method",
+					"itemName": "Understanding SpringApplication run Method",
+					"itemDescription": ""
 				}
 			]
 		},
@@ -63,7 +71,8 @@
 			"subTopicId": "spring-boot-starters",
 			"subTopicName": "Spring Boot Starters",
 			"description": "Test introduction description 2",
-			"items": [{
+			"items": [
+				{
 					"itemId": "spring-boot-starter-parent",
 					"itemName": "Spring Boot Starter Parent",
 					"itemDescription": ""
