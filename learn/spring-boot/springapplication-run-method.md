@@ -7,3 +7,15 @@ In order to bootsrap the application `SpringApplication` class:
 - Registera a `CommandLinePropertySource` to expose command line arguments as Spring properties.
 - Refreshes the application context, loads all singleton beans.
 - Triggers `CommandLineRunner` beans if any.
+
+```java
+ @SpringBootApplication
+ public class MyApplication  {
+
+   // ... Bean definitions goes here
+
+   public static void main(String[] args) {
+     SpringApplication.run(MyApplication.class, args);
+   }
+ }
+```
