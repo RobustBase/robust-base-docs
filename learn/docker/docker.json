@@ -4,7 +4,7 @@
         "description": "Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that you can just run.",
         "subTopics": [
             {
-                "subTopicId": "introduction-to-spring-boot",
+                "subTopicId": "test-to-spring-boot",
                 "subTopicName": "Introduction to Spring Boot",
                 "description": "Test introduction description",
                 "items": [
