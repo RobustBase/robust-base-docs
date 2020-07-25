@@ -2,31 +2,37 @@
   {
     "topicId": "design-principles",
     "topicName": "Design Principles",
-    "description": "The importance of good software design can never be under-estimated."
+    "description": "The importance of good software design can never be under-estimated.",
+    "contentPath": "learn/design-principles/design-principles.json"
   },
   {
     "topicId": "design-patterns",
     "topicName": "Design Patterns",
-    "description": "The importance of good software design can never be under estimated."
+    "description": "The importance of good software design can never be under estimated.",
+    "contentPath": "learn/design-principles/design-principles.json"
   },
   {
     "topicId": "microservices",
     "topicName": "Microservices",
-    "description": "The importance of good software design can never be under estimated."
+    "description": "The importance of good software design can never be under estimated.",
+    "contentPath": "learn/design-patterns/design-patterns.json"
   },
   {
     "topicId": "spring-boot",
     "topicName": "Spring Boot",
-    "description": "Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that you can just run."
+    "description": "Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that you can just run.",
+    "contentPath": "learn/spring-boot/spring-boot.json"
   },
   {
     "topicId": "spring-cloud",
     "topicName": "Spring Cloud",
-    "description": "The importance of good software design can never be under estimated."
+    "description": "The importance of good software design can never be under estimated.",
+    "contentPath": "learn/spring-cloud/spring-cloud.json"
   },
   {
     "topicId": "docker",
     "topicName": "Docker",
-    "description": "The importance of good software design can never be under estimated."
+    "description": "The importance of good software design can never be under estimated.",
+    "contentPath": "learn/docker/docker.json"
   }
 ]
