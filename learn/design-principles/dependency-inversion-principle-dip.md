@@ -27,9 +27,9 @@ public class EmailService{
         //Send email
     }
 }
+```
 
-...
-
+```java
 public class SMSService{
     private String phoneNumber;
     private String message;
@@ -37,9 +37,9 @@ public class SMSService{
         //Send SMS
     }
 }
+```
 
-...
-
+```java
 public class NotificationService{
     private EmailService emailService;
     private SMSService smsService;
