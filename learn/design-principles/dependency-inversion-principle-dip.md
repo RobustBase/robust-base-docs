@@ -6,7 +6,7 @@ According to Dependency Inversion Principle:
 - Abstractions should not depend on details.  Details should depend on abstractions.
 ---
 
-*The best and easiest way to understand any of the design principles is to first have a look at the solution desing which **violates the design principle** and understand it's drawbacks then design the solution which **adheres to the design principle** and understand it's benefits.*
+*The best and easiest way to understand any of the design principles is to first design the solution which **violates the design principle** and understand it's drawbacks then re-design the solution which **adheres to the design principle** and understand it's benefits.*
 
 ## Example
 ---
