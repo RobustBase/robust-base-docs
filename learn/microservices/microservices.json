@@ -1,66 +1,242 @@
 {
-        "topicId": "microservices",
-        "topicName": "Microservices",
-        "description": "Microservices or Microservice Architecture is an architectural style that structures an application as a collection of services.",
-        "subTopics": [
-            {
-                "subTopicId": "introduction-to-microservices",
-                "subTopicName": "Introduction to Microservices",
-                "description": "Test introduction description",
-                "items": [
-                    {
-                        "itemId": "what-are-microservices",
-                        "itemName": "What are microservices?",
-                        "itemDescription": ""
-                    },
-                    {
-                        "itemId": "open-close-principle-ocp",
-                        "itemName": "Open Close Principle (OCP)",
-                        "itemDescription": ""
-                    },
-                    {
-                        "itemId": "liskovs-substitution-principle-lsp",
-                        "itemName": "Liskov's Substitution Principle (LSP)",
-                        "itemDescription": ""
-                    },
-                    {
-                        "itemId": "interface-segregation-principle-isp",
-                        "itemName": "Interface Segregation Principle (ISP)",
-                        "itemDescription": ""
-                    },
-                    {
-                        "itemId": "dependency-inversion-principle-dip",
-                        "itemName": "Dependency Inversion Principle (DIP)",
-                        "itemDescription": ""
-                    }
-                ]
-            },
-            {
-                "subTopicId": "common-dp",
-                "subTopicName": "Common Design Patterns",
-                "description": "Test introduction description 2",
-                "items": [
-                    {
-                        "itemId": "dry",
-                        "itemName": "Don't Repeat Yourself (DRY)",
-                        "itemDescription": ""
-                    },
-                    {
-                        "itemId": "yagni",
-                        "itemName": "You Aren't Gonna Need It (YAGNI)",
-                        "itemDescription": ""
-                    },
-                    {
-                        "itemId": "kiss",
-                        "itemName": "Keep It Simple, Stupid (KISS)",
-                        "itemDescription": ""
-                    },
-                    {
-                        "itemId": "ioc",
-                        "itemName": "Inversion Of Control (IoC)",
-                        "itemDescription": ""
-                    }
-                ]
-            }
-        ]
-    }
+    "topicId": "microservices",
+    "topicName": "Microservices",
+    "description": "The importance of good software design can never be under estimated.",
+    "subTopics": [
+        {
+            "subTopicId": "solid",
+            "subTopicName": "Introduction to Microservices",
+            "description": "Test introduction description",
+            "items": [
+                {
+                    "itemId": "single-responsibility-principle-srp",
+                    "itemName": "Why Microsevices?",
+                    "itemDescription": ""
+                },
+                {
+                    "itemId": "open-close-principle-ocp",
+                    "itemName": "What are Microsevices?",
+                    "itemDescription": ""
+                }
+            ]
+        },
+        {
+            "subTopicId": "common-dp",
+            "subTopicName": "How to decompose an application into services?",
+            "description": "Test introduction description 2",
+            "items": [
+                {
+                    "itemId": "dry",
+                    "itemName": "Decomposition application by business capbilities",
+                    "itemDescription": ""
+                },
+                {
+                    "itemId": "yagni",
+                    "itemName": "Decomposition application by subdomain",
+                    "itemDescription": ""
+                },
+                {
+                    "itemId": "kiss",
+                    "itemName": "Decomposition application by creating self-contained service",
+                    "itemDescription": ""
+                }
+            ]
+        },
+        {
+            "subTopicId": "common-dp",
+            "subTopicName": "Microservices communication style",
+            "description": "Test introduction description 2",
+            "items": [
+                {
+                    "itemId": "dry",
+                    "itemName": "Remote Procedure Invocation",
+                    "itemDescription": ""
+                },
+                {
+                    "itemId": "yagni",
+                    "itemName": "Messaging",
+                    "itemDescription": ""
+                },
+                {
+                    "itemId": "kiss",
+                    "itemName": "Domain-specific protocol",
+                    "itemDescription": ""
+                },
+                {
+                    "itemId": "kiss",
+                    "itemName": "Idempotent Consumer",
+                    "itemDescription": ""
+                }
+            ]
+        },
+        {
+            "subTopicId": "common-dp",
+            "subTopicName": "External API",
+            "description": "Test introduction description 2",
+            "items": [
+                {
+                    "itemId": "dry",
+                    "itemName": "Remote Procedure Invocation",
+                    "itemDescription": ""
+                },
+                {
+                    "itemId": "yagni",
+                    "itemName": "API Gateway",
+                    "itemDescription": ""
+                },
+                {
+                    "itemId": "kiss",
+                    "itemName": "Backend for front-end",
+                    "itemDescription": ""
+                }
+            ]
+        },
+        {
+            "subTopicId": "common-dp",
+            "subTopicName": "Service discovery",
+            "description": "Test introduction description 2",
+            "items": [
+                {
+                    "itemId": "dry",
+                    "itemName": "Client-side discovery",
+                    "itemDescription": ""
+                },
+                {
+                    "itemId": "yagni",
+                    "itemName": "Server-side discovery",
+                    "itemDescription": ""
+                },
+                {
+                    "itemId": "kiss",
+                    "itemName": "Service registry",
+                    "itemDescription": ""
+                },
+                {
+                    "itemId": "kiss",
+                    "itemName": "Self registration",
+                    "itemDescription": ""
+                },
+                {
+                    "itemId": "kiss",
+                    "itemName": "Third party registration",
+                    "itemDescription": ""
+                }
+            ]
+        },
+        {
+            "subTopicId": "common-dp",
+            "subTopicName": "Reliability",
+            "description": "Test introduction description 2",
+            "items": [
+                {
+                    "itemId": "dry",
+                    "itemName": "Circuit Breaker",
+                    "itemDescription": ""
+                }
+            ]
+        },
+        {
+            "subTopicId": "common-dp",
+            "subTopicName": "Security",
+            "description": "Test introduction description 2",
+            "items": [
+                {
+                    "itemId": "dry",
+                    "itemName": "Access Token",
+                    "itemDescription": ""
+                }
+            ]
+        },
+        {
+            "subTopicId": "common-dp",
+            "subTopicName": "Observability",
+            "description": "Test introduction description 2",
+            "items": [
+                {
+                    "itemId": "dry",
+                    "itemName": "Log aggregation",
+                    "itemDescription": ""
+                },
+                {
+                    "itemId": "yagni",
+                    "itemName": "Application Metrics",
+                    "itemDescription": ""
+                },
+                {
+                    "itemId": "kiss",
+                    "itemName": "Distributed tracing",
+                    "itemDescription": ""
+                },
+                {
+                    "itemId": "kiss",
+                    "itemName": "Exception tracking",
+                    "itemDescription": ""
+                },
+                {
+                    "itemId": "kiss",
+                    "itemName": "Health check API",
+                    "itemDescription": ""
+                }
+            ]
+        },
+        {
+            "subTopicId": "common-dp",
+            "subTopicName": "Microservice chassis",
+            "description": "Test introduction description 2",
+            "items": [
+                {
+                    "itemId": "dry",
+                    "itemName": "Externalized configuration",
+                    "itemDescription": ""
+                },
+                {
+                    "itemId": "yagni",
+                    "itemName": "Logging",
+                    "itemDescription": ""
+                },
+                {
+                    "itemId": "kiss",
+                    "itemName": "DHealth checks",
+                    "itemDescription": ""
+                },
+                {
+                    "itemId": "kiss",
+                    "itemName": "Metrics",
+                    "itemDescription": ""
+                },
+                {
+                    "itemId": "kiss",
+                    "itemName": "Distributed tracing",
+                    "itemDescription": ""
+                }
+            ]
+        },
+        {
+            "subTopicId": "common-dp",
+            "subTopicName": "Data Management",
+            "description": "Test introduction description 2",
+            "items": [
+                {
+                    "itemId": "dry",
+                    "itemName": "database per service",
+                    "itemDescription": ""
+                },
+                {
+                    "itemId": "yagni",
+                    "itemName": "Shared database among services",
+                    "itemDescription": ""
+                },
+                {
+                    "itemId": "kiss",
+                    "itemName": "SAGA",
+                    "itemDescription": ""
+                },
+                {
+                    "itemId": "kiss",
+                    "itemName": "CQRS",
+                    "itemDescription": ""
+                }
+            ]
+        }
+    ]
+}
