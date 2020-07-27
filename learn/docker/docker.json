@@ -1,80 +1,395 @@
 {
-        "topicId": "dcoker",
+        "topicId": "docker",
         "topicName": "Docker",
-        "description": "Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that you can just run.",
+        "description": "Introduction to Docker.",
         "subTopics": [
             {
-                "subTopicId": "test-to-spring-boot",
-                "subTopicName": "Introduction to Spring Boot",
+                "subTopicId": "solid",
+                "subTopicName": "Introduction to Docker",
                 "description": "Test introduction description",
                 "items": [
                     {
-                        "itemId": "what-is-spring-boot",
-                        "itemName": "What is Spring Boot?",
+                        "itemId": "single-responsibility-principle-srp",
+                        "itemName": "Why Docker?",
                         "itemDescription": ""
                     },
                     {
-                        "itemId": "problems-without-spring-boot",
-                        "itemName": "Problems without Spring Boot",
+                        "itemId": "open-close-principle-ocp",
+                        "itemName": "What is Docker?",
                         "itemDescription": ""
                     },
                     {
-                        "itemId": "solutions-with-spring-boot",
-                        "itemName": "Solutions with Spring Boot",
+                        "itemId": "liskovs-substitution-principle-lsp",
+                        "itemName": "Installing Docker",
                         "itemDescription": ""
                     },
                     {
-                        "itemId": "springboot-features",
-                        "itemName": "SpringBoot Features",
+                        "itemId": "interface-segregation-principle-isp",
+                        "itemName": "Docker Archteture",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "dependency-inversion-principle-dip",
+                        "itemName": "Docker Objects",
                         "itemDescription": ""
                     }
                 ]
             },
             {
-                "subTopicId": "get-started-with-spring-boot",
-                "subTopicName": "Get started with Spring Boot",
+                "subTopicId": "common-dp",
+                "subTopicName": "Docker Networking",
                 "description": "Test introduction description 2",
                 "items": [
                     {
-                        "itemId": "creating-first-spring-boot-application",
-                        "itemName": "Creating First Spring Boot Application",
+                        "itemId": "dry",
+                        "itemName": "What is Docker networking and why it's important?",
                         "itemDescription": ""
                     },
                     {
-                        "itemId": "spring-boot-application-architecture",
-                        "itemName": "Spring Boot Application Architecture",
+                        "itemId": "yagni",
+                        "itemName": "YContainer Networking",
                         "itemDescription": ""
                     },
                     {
-                        "itemId": "running-spring-boot-application",
-                        "itemName": "Running Spring Boot Application",
+                        "itemId": "kiss",
+                        "itemName": "Bridge Network",
                         "itemDescription": ""
                     },
                     {
-                        "itemId": "debugging-spring-boot-application",
-                        "itemName": "Debugging Spring Boot Application",
+                        "itemId": "ioc",
+                        "itemName": "Host Network",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "ioc",
+                        "itemName": "None Network",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "ioc",
+                        "itemName": "Overlay Network",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "ioc",
+                        "itemName": "Create Network",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "ioc",
+                        "itemName": "List Network(s)",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "ioc",
+                        "itemName": "Inspect Network",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "ioc",
+                        "itemName": "Remove Network",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "ioc",
+                        "itemName": "Multi-network Container",
+                        "itemDescription": ""
+                    }                
+                ]
+            },
+            {
+                "subTopicId": "solid",
+                "subTopicName": "Docker Images",
+                "description": "Test introduction description",
+                "items": [
+                    {
+                        "itemId": "single-responsibility-principle-srp",
+                        "itemName": "What is Docker Container and why it's needed?",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "open-close-principle-ocp",
+                        "itemName": "Build Docker Image",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "liskovs-substitution-principle-lsp",
+                        "itemName": "Push Docker Images to Docker Hub",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "interface-segregation-principle-isp",
+                        "itemName": "Pull Docker Images from Docker Hub",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "dependency-inversion-principle-dip",
+                        "itemName": "Tag Images",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "dependency-inversion-principle-dip",
+                        "itemName": "List Images",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "dependency-inversion-principle-dip",
+                        "itemName": "Filter Images",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "dependency-inversion-principle-dip",
+                        "itemName": "Remove one or more Images",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "dependency-inversion-principle-dip",
+                        "itemName": "Remove All Images",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "dependency-inversion-principle-dip",
+                        "itemName": "Remove Old Images",
                         "itemDescription": ""
                     }
                 ]
             },
             {
-                "subTopicId": "spring-boot-starters",
-                "subTopicName": "Spring Boot Starters",
-                "description": "Test introduction description 2",
+                "subTopicId": "solid",
+                "subTopicName": "Docker Containers",
+                "description": "Test introduction description",
                 "items": [
                     {
-                        "itemId": "spring-boot-starter-parent",
-                        "itemName": "Spring Boot Starter Parent",
+                        "itemId": "single-responsibility-principle-srp",
+                        "itemName": "What is Docker Container and what's it's roll?",
                         "itemDescription": ""
                     },
                     {
-                        "itemId": "maven-default",
-                        "itemName": "Maven Default",
+                        "itemId": "open-close-principle-ocp",
+                        "itemName": "Docker Container lifecycle",
                         "itemDescription": ""
                     },
                     {
-                        "itemId": "other-starters",
-                        "itemName": "Other Starters",
+                        "itemId": "liskovs-substitution-principle-lsp",
+                        "itemName": "docker create",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "interface-segregation-principle-isp",
+                        "itemName": "docker run",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "dependency-inversion-principle-dip",
+                        "itemName": "docker start",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "dependency-inversion-principle-dip",
+                        "itemName": "docker stop",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "dependency-inversion-principle-dip",
+                        "itemName": "docker pouse",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "dependency-inversion-principle-dip",
+                        "itemName": "docker unpause",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "dependency-inversion-principle-dip",
+                        "itemName": "List containers",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "dependency-inversion-principle-dip",
+                        "itemName": "Filter containers",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "dependency-inversion-principle-dip",
+                        "itemName": "Remove one or more containers",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "dependency-inversion-principle-dip",
+                        "itemName": "Remove unused containers",
+                        "itemDescription": ""
+                    }
+                ]
+            },
+            {
+                "subTopicId": "solid",
+                "subTopicName": "Docker Storage and Volumes",
+                "description": "Test introduction description",
+                "items": [
+                    {
+                        "itemId": "single-responsibility-principle-srp",
+                        "itemName": "Why Docker Storage and Volumes?",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "open-close-principle-ocp",
+                        "itemName": "Docker Storage Drivers",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "liskovs-substitution-principle-lsp",
+                        "itemName": "Selecting Storage Driver",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "interface-segregation-principle-isp",
+                        "itemName": "Persistent Storage",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "dependency-inversion-principle-dip",
+                        "itemName": "Manage Application Data",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "dependency-inversion-principle-dip",
+                        "itemName": "Docker Volumes",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "dependency-inversion-principle-dip",
+                        "itemName": "Docker Bind Mounts",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "dependency-inversion-principle-dip",
+                        "itemName": "Docker tmpfs Mounts",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "dependency-inversion-principle-dip",
+                        "itemName": "External Storage",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "dependency-inversion-principle-dip",
+                        "itemName": "List Volumes",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "dependency-inversion-principle-dip",
+                        "itemName": "Filter Volumes",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "dependency-inversion-principle-dip",
+                        "itemName": "Remove one or more Volumes",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "dependency-inversion-principle-dip",
+                        "itemName": "Remove all Volumes",
+                        "itemDescription": ""
+                    }
+                ]
+            },
+            {
+                "subTopicId": "solid",
+                "subTopicName": "Docker Compose",
+                "description": "Test introduction description",
+                "items": [
+                    {
+                        "itemId": "single-responsibility-principle-srp",
+                        "itemName": "What is Docker Compose?",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "open-close-principle-ocp",
+                        "itemName": "How to create Docker Compose",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "liskovs-substitution-principle-lsp",
+                        "itemName": "Networking in Docker Compose",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "interface-segregation-principle-isp",
+                        "itemName": "Volumes in Docker Compose",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "dependency-inversion-principle-dip",
+                        "itemName": "Environment Variable in Docker Compose",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "dependency-inversion-principle-dip",
+                        "itemName": "Container Dependecies in Docker Compose",
+                        "itemDescription": ""
+                    }
+                ]
+            },
+            {
+                "subTopicId": "solid",
+                "subTopicName": "Orchestration - Docker Swarm",
+                "description": "Test introduction description",
+                "items": [
+                    {
+                        "itemId": "single-responsibility-principle-srp",
+                        "itemName": "What is Docker Swarm?",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "open-close-principle-ocp",
+                        "itemName": "Create Swarm",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "liskovs-substitution-principle-lsp",
+                        "itemName": "How to maintain Swarm?",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "interface-segregation-principle-isp",
+                        "itemName": "Deploy Services to Swarm",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "dependency-inversion-principle-dip",
+                        "itemName": "Updates to Services",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "dependency-inversion-principle-dip",
+                        "itemName": "Managing Swarm Services",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "dependency-inversion-principle-dip",
+                        "itemName": "Docker Stack",
+                        "itemDescription": ""
+                    }
+                ]
+            },
+            {
+                "subTopicId": "solid",
+                "subTopicName": "UCP - Universal Control Panel",
+                "description": "Test introduction description",
+                "items": [
+                    {
+                        "itemId": "single-responsibility-principle-srp",
+                        "itemName": "Introduction to UCP",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "open-close-principle-ocp",
+                        "itemName": "Deploy, Manage and Monitor UCP",
+                        "itemDescription": ""
+                    },
+                    {
+                        "itemId": "dependency-inversion-principle-dip",
+                        "itemName": "Access Control",
                         "itemDescription": ""
                     }
                 ]
