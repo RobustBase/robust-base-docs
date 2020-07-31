@@ -9,12 +9,12 @@
                 "description": "Test introduction description",
                 "items": [
                     {
-                        "itemId": "single-responsibility-principle-srp",
+                        "itemId": "why-docker",
                         "itemName": "Why Docker?",
                         "itemDescription": ""
                     },
                     {
-                        "itemId": "open-close-principle-ocp",
+                        "itemId": "what-is-docker",
                         "itemName": "What is Docker?",
                         "itemDescription": ""
                     },
