@@ -31,4 +31,4 @@ public class EurekaServerApplicationTest {
 }
 ```
 
-![SRP](https://docs.google.com/drawings/d/1iK8mJnYsTWm-v4Kj3PlUlvN3AOc1touKp2tGRIv6uZQ/export/png)
+
