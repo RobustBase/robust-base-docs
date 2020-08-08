@@ -1,6 +1,6 @@
 {
     "topicId": "jdbc",
-    "topicName": "JDBS",
+    "topicName": "Java Database Connectivity(JDBC)",
     "description": "Java Database Connectivity",
     "subTopics": [
         {
