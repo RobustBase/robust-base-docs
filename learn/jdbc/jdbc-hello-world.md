@@ -7,7 +7,7 @@ This example:
 - uses h2 Database ↑ as data source.
 - fetches data from LEARN_JDBC table. (see how to create table ↑ and insert data ↑ into it.)
 
-```
+```java
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
