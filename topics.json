@@ -28,5 +28,10 @@
     "topicId": "docker",
     "topicName": "Docker",
     "contentPath": "learn/docker/docker.json"
+  },
+  {
+    "topicId": "jdbc",
+    "topicName": "JDBC",
+    "contentPath": "learn/jdbc/jdbc.json"
   }
 ]
