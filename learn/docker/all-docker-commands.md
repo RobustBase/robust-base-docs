@@ -1,4 +1,5 @@
-# docker build
+# Docker Comands
 ----
-## `docker build [OPTIONS] PATH | URL | -`
-- `docker build -t item-service:latest .` 
+| Command | Example | Explaination |
+| ------ | ------ | ------ |
+| docker build | `docker build -t item-service:latest .` | Builds docker image with item-service:lates tag and current context. |
