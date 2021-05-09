@@ -32,6 +32,11 @@
                         "itemId": "dependency-inversion-principle-dip",
                         "itemName": "Docker Objects",
                         "itemDescription": ""
+                    },
+                    {
+                        "itemId": "all-docker-commands",
+                        "itemName": "All Docker Commands",
+                        "itemDescription": "All Docker Commands"
                     }
                 ]
             },
