@@ -33,5 +33,10 @@
     "topicId": "jdbc",
     "topicName": "JDBC",
     "contentPath": "learn/jdbc/jdbc.json"
+  },
+  {
+    "topicId": "graphql",
+    "topicName": "GraphQL",
+    "contentPath": "learn/graphql/graphql.json"
   }
 ]
