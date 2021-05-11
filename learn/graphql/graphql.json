@@ -1,26 +1,26 @@
 {
     "topicId": "graphql",
-    "topicName": "Introduction to GraphQL",
-    "description": "Introduction to GraphQL",
+    "topicName": "GraphQL",
+    "description": "A query language for your API",
     "subTopics": [
         {
             "subTopicId": "jdbc",
-            "subTopicName": "Java Database Connectivity",
-            "description": "Java Database Connectivity",
+            "subTopicName": "Introduction to GraphQL",
+            "description": "Introduction to GraphQL",
             "items": [
                 {
-                    "itemId": "introduction-to-jdbc",
-                    "itemName": "Introduction to JDBC",
+                    "itemId": "what-is-graphql",
+                    "itemName": "What is GraphQL",
                     "itemDescription": ""
                 },
                 {
-                    "itemId": "jdbc-drivers",
-                    "itemName": "JDBC Drivers",
+                    "itemId": "why-graphql",
+                    "itemName": "Why GraphQL",
                     "itemDescription": ""
                 },
                 {
-                    "itemId": "jdbc-hello-world",
-                    "itemName": "JDBC Hello World",
+                    "itemId": "advantages-and-disadvantages-of-graphql",
+                    "itemName": "Advantages and Disadvantages of GraphQL",
                     "itemDescription": ""
                 }
             ]
