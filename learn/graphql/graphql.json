@@ -1,0 +1,29 @@
+{
+    "topicId": "graphql",
+    "topicName": "Introduction to GraphQL",
+    "description": "Introduction to GraphQL",
+    "subTopics": [
+        {
+            "subTopicId": "jdbc",
+            "subTopicName": "Java Database Connectivity",
+            "description": "Java Database Connectivity",
+            "items": [
+                {
+                    "itemId": "introduction-to-jdbc",
+                    "itemName": "Introduction to JDBC",
+                    "itemDescription": ""
+                },
+                {
+                    "itemId": "jdbc-drivers",
+                    "itemName": "JDBC Drivers",
+                    "itemDescription": ""
+                },
+                {
+                    "itemId": "jdbc-hello-world",
+                    "itemName": "JDBC Hello World",
+                    "itemDescription": ""
+                }
+            ]
+        }
+    ]
+}
